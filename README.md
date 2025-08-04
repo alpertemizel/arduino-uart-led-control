@@ -26,7 +26,7 @@ This project demonstrates serial communication (UART) between two Arduino boards
 
 **Connections:**
 
-![Circuit Diagram](images/circuit.png)
+![Circuit Diagram](images/circuit.PNG)
 
 ---
 
