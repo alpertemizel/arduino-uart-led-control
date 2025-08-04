@@ -37,6 +37,10 @@ This project demonstrates serial communication (UART) between two Arduino boards
 - Arduino IDE
 - Two Arduino boards (Uno & Nano)
 - USB cables for each board
+- Jumper Cables
+- 10kΩ Potentiometer
+- LED
+- 220Ω Resistor 
 
 ### Installation
 
